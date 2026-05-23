@@ -1,0 +1,27 @@
+{
+  "name": "RCCMS Pro - Revenue Court Case Management",
+  "short_name": "RCCMS Pro",
+  "description": "Revenue Court Case Management System - न्यायालय केस प्रबंधन",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06090f",
+  "theme_color": "#0a0f1a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "hi",
+  "dir": "ltr"
+}
